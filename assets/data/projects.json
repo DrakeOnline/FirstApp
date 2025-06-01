@@ -1,0 +1,58 @@
+[
+  {
+    "name": "April Rent",
+    "details": "",
+    "amount": 1425,
+    "priority": "critical",
+    "start_date": "2025-05-31"
+  },
+  {
+    "name": "May Rent",
+    "details": "",
+    "amount": 1425,
+    "priority": "critical",
+    "start_date": "2025-05-31"
+  },
+  {
+    "name": "Car Repair",
+    "details": "Oil Change - timing belt - transmission flush",
+    "amount": 1200,
+    "priority": "high",
+    "start_date": "2025-05-31"
+  },
+  {
+    "name": "Santa Cruz Trip",
+    "details": "",
+    "amount": 700,
+    "priority": "medium",
+    "start_date": "2025-05-31"
+  },
+  {
+    "name": "Drake's US Bank Credit Card",
+    "details": "",
+    "amount": 500,
+    "priority": "low",
+    "start_date": "2025-05-31"
+  },
+  {
+    "name": "Drake's Citi Credit Card",
+    "details": "",
+    "amount": 4000,
+    "priority": "low",
+    "start_date": "2025-05-31"
+  },
+  {
+    "name": "Madie's US Bank Credit Card",
+    "details": "",
+    "amount": 5000,
+    "priority": "low",
+    "start_date": "2025-05-31"
+  },
+  {
+    "name": "Madie's Citi Credit Card",
+    "details": "",
+    "amount": 2000,
+    "priority": "low",
+    "start_date": "2025-05-31"
+  }
+]
